@@ -5,7 +5,7 @@
 
 📌 Overview
 
-This is the Admin Panel for the Comforty Marketplace, designed to manage products, orders, and categories efficiently. It provides a dynamic dashboard with charts and icons to visualize real-time data fetched from Sanity CMS.
+
 
 ✨ Features
 
